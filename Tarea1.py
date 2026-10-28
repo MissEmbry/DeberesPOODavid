@@ -1,3 +1,19 @@
 print("Hola Mundo")
 print("Soy de Desarrollo de software")
 print(2+3)
+
+suma = 0
+a = 5
+b = 6
+suma = a+b
+print(suma)
+print(type(suma))
+
+nombre = "David"
+print(nombre)
+print(type(nombre))
+
+promedio = 8.5
+print(promedio)
+print(type(promedio))
+
